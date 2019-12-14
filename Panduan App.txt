@@ -1,0 +1,16 @@
+Panduan Penggunaan Aplikasi
+
+1.Install Flask pada CMD - ketik 
+
+pip install flask
+ atau
+conda install flask
+
+2.Buka dan jalankan(run) anaconda dengan file bernama tanew.ipnyb
+3.Dari code dump nanti akan menghasilkan knnbagg.pkl
+4.Buka file py pada cmd - ketik (alamat file misal= F:\nita\Web\Tugas akhir) restockga.py 
+atau dengan membuka cmd dengan cara biasa melalui cmd anaconda dengan folder yang ada file tugas akhir tersebut dengan mengetik restockga.py 
+5.Lihat Hasil run cmd dan dapatkan alamat ip untuk membuka file tersebut kedalam aplikasi web (cth: http://127.0.0.1:5000/)
+6.Masuk di halaman webnya, isikan semua data sesuka hati
+7.Jika sudah Klik Prediksi
+8.hasil prediksi dapat dilihat diatas form input
